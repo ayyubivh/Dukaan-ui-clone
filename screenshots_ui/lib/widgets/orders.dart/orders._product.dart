@@ -9,7 +9,7 @@ class orders_product extends StatelessWidget {
 //productlist
   Widget products_list() {
     return Padding(
-      padding: const EdgeInsets.all(8.0),
+      padding: const EdgeInsets.all(9.0),
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
